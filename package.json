@@ -1,6 +1,6 @@
 {
   "name": "is-nodelist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "is a NodeList object?",
   "license": "MIT",
   "repository": "hemanth/is-nodelist",
