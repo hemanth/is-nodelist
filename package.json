@@ -22,7 +22,7 @@
     "check"
   ],
   "dependencies": {
-    "is-arguments": "^1.0.1",
-    "is-object": "^1.0.1"
+    "is-arguments": "1.0.2",
+    "is-object": "1.0.1"
   }
 }
